@@ -9,8 +9,9 @@ It includes insights on developer demographics, employment, education, work hour
 - `index.html` → fully rendered live HTML (graphs visible)
 
 ## How to View
-- Open `index.html` in browser for full visualization
-- Or open `.ipynb` notebook to see code and analysis
+- Open `.ipynb` notebook to see code and analysis
+-  or Open `index.html` link in browser for full visualization
+- link for Project (https://vinaykumar-1431.github.io/Stack-overflow-survey-analysis/)
 
 ## Key Analysis
 - Age, Gender, and Education distribution
@@ -19,7 +20,7 @@ It includes insights on developer demographics, employment, education, work hour
 - Visualizations: histograms, scatter plots, bar charts
 
 ## Live Project
-🔗 [View Live Project](https://vinaykumar-1431.github.io/stack-overflow-survey-analysis/)
+🔗 [View Live Project] (https://vinaykumar-1431.github.io/stack-overflow-survey-analysis/)
 
 ## References
 - Stack Overflow Developer Survey Dataset (Kaggle)# Stack Overflow Developer Survey Analysis
